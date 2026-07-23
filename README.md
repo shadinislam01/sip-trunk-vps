@@ -6,3 +6,7 @@
 
 ```bash
 git clone https://github.com/shadinislam01/sip-trunk-vps.git && cd sip-trunk-vps && sudo bash install.sh
+
+আগের ইন্সটলেশন সম্পূর্ণ ডিলিট করতে:
+
+cd sip-trunk-vps && sudo bash uninstall.sh
