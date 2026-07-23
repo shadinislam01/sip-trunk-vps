@@ -24,3 +24,9 @@ If you want to completely remove the SIP server, run this command:
 ```bash
 
 cd sip-trunk-vps && sudo bash uninstall.sh
+```
+# সমস্যা হলে এটি রান করুন
+
+```bash
+cd sip-trunk-vps
+sudo bash fix-sip.sh
