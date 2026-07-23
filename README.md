@@ -9,6 +9,6 @@
 মাত্র তিনটি কমান্ডে আপনার নিজস্ব SIP সার্ভার রেডি!
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sip-trunk-vps.git
+git clone https://github.com/shadinislam01/sip-trunk-vps.git
 cd sip-trunk-vps
 sudo bash install.sh
